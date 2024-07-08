@@ -16,7 +16,7 @@ React + Vite application. An online jewerly shop simulator. The products are fet
 
 [Repository](https://github.com/mountainflock/shopping_cart)
 
-<img src="assets/shoppingCart.png" width="400">
+<img src="assets/shoppingCart.png" width="600">
 
 
 
@@ -37,7 +37,7 @@ JavaScript web application for organizing task lists. This project is part of th
 
 [Repository](https://github.com/mountainflock/todo_list)
 
-<img src="assets/todoList.png" width="400">
+<img src="assets/todoList.png" width="600">
 
 
 
@@ -49,7 +49,7 @@ React + Vite application where users can input their information and generate a 
 
 [Repository](https://github.com/mountainflock/cv_application)
 
-<img src="assets/cv.png" width="400">
+<img src="assets/cv.png" width="600">
 
 
 
