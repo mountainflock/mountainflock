@@ -57,8 +57,6 @@ React + Vite application where users can input their information and generate a 
 
 React + Vite application, a memory game. This project is part of the [Odin](https://www.theodinproject.com/) React course, demonstrating basic React concepts.
 
-[Live version](https://mountainflocksmemorycard.netlify.app)
-
 [Repository](https://github.com/mountainflock/memory_card)
 
 
